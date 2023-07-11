@@ -1,3 +1,4 @@
+<p style="font-size:25px">Hi There &#128075;</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shehabhy1/assignment_repo/blob/main/flutter%20character.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/shehabhy1/assignment_repo/blob/main/flutter%20character.jpg">

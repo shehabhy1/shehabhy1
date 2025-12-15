@@ -51,12 +51,10 @@ I transform ideas into pixel-perfect mobile experiences.
 
 ---
 
-<div align="center">
-  <img src="https://github.com/shehabhy1/shehabhy1/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/shehab-elsherif/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
